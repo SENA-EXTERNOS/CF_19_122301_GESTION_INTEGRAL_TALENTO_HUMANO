@@ -30,7 +30,7 @@
           .bg4.p-5.h-100
             img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/47.png', alt='')
             h4.mb-4 Cumplimiento de actividad ejecutadas 
-            p.mb-4 En este indicador se pretende medir el avance del programa de bienestar, frente a lo planteado.En este indicador se pretende medir el avance del programa de bienestar, frente a lo planteado.   
+            p.mb-4 En este indicador, se pretende medir el avance del programa de bienestar, frente a lo planteado. 
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.svg', alt='')   
 
       p(data-aos="fade-down").mb-5 Otros indicadores dentro la gestión del talento humano, donde su resultado se verá impactado por la existencia y funcionalidad del plan de bienestar, son los siguientes:

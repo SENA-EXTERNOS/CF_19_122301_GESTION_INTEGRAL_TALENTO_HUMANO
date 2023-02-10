@@ -13,7 +13,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/2.svg', alt='')    
       .col-lg-10.my-3
         p(data-aos="fade-down") Apreciado aprendiz, bienvenido a este componente formativo, donde aprenderá la importancia del bienestar laboral, subproceso del talento humano, la normatividad que lo regula, cómo se construye, implementa y qué mide. 
-
+        p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
         figure

@@ -13,7 +13,7 @@
         .col-lg-10.my-3
           p(data-aos="fade-down") Una vez se tiene clara la estrategia, tanto de la empresa como del área de recursos humanos, se llega a la construcción del programa de bienestar laboral, documento donde se consolidan las diferentes actividades que se van a realizar durante el transcurso del año o semestre (según sea la metodología), fechas, recursos necesarios, responsables, y todo el seguimiento de cada mes. 
 
-      p(data-aos="fade-down").mb-5 Para comenzar a construir este documento, se cuenta con variables que se deben tener en cuenta. 
+      p(data-aos="fade-down").mb-5 Para comenzar a construir este documento, se deben tener en cuenta algunas variables como:  
 
       .row.justify-content-center.align-items-start.mb-4
         .col-lg-8.my-3 
@@ -39,7 +39,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/27.svg', alt='')    
       .col-lg-8.my-3 
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Integrar tanto la estrategia como la cultura en la construcción del plan de bienestar, va a permitir que cada unas de las actividades tengan un objetivo claro, que apunte a las necesidades reales, fortalezca la marca empleadora y la reputación organizacional y, por supuesto. apalanque los resultados de desempeño.        
+          p(data-aos="fade-down").mb-0 Integrar tanto la estrategia como la cultura en la construcción del plan de bienestar, va a permitir que cada una de las actividades tengan un objetivo claro, que apunte a las necesidades reales, fortalezca la marca empleadora y la reputación organizacional y, por supuesto, apalanque los resultados de desempeño.   
         p(data-aos="fade-down") Sin duda, la situación propiciada por el Covid-19, mostró la importancia y el valor que agregan todas las actividades que se implementan, desde bienestar, sistema de gestión de seguridad y salud, y clima laboral. Trascendiendo de ser un rubro de gasto, o actividades sueltas de “felicidad”, o simplemente celebrar los cumpleaños, a contar con todo un programa integral que impacte y aporte a la vida del colaborador, permeando los resultados de desempeño y los organizacionales. 
     p(data-aos="fade-down").mb-5 Por lo tanto, el objetivo general de contar con un plan de bienestar, más allá del cumplimiento legal, es el de implementar acciones que promuevan un ambiente sano y saludable para que los colaboradores desarrollen sus actividades, sin generar afectación en su salud física o mental. Sin embargo, también se encontrarán objetivos específicos como: 
 
@@ -64,7 +64,7 @@
           img.img-a.img-t.img-w2(src='@/assets/curso/temas/31.svg' alt='')
           div.text-center.bg2.p-4.pt-5.h-100
             p.mb-0 Mitigar cualquier afectación a nivel psicosocial.                                                     
-    p(data-aos="fade-down").my-5 Por otra parte, el alcance del programa de bienestar, lo van a determinar dos criterios:       
+    p(data-aos="fade-down").my-5 Por otra parte, el alcance del programa de bienestar, va a ser determinado por dos criterios:     
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="La estrategia corporativa")
@@ -84,7 +84,7 @@
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/34.png', alt='')    
       .col-lg-8.my-3    
-        p(data-aos="fade-down") Lo importante de todas las herramientas legales y de gestión con las que cuente la empresa para determinar el alcance, es poder integrar la gestión y unificar el plan de trabajo, porque en ciertas ocasiones la información de cada herramienta la reciben diferentes subprocesos de gestión de talento humano y puede ocurrir que no se presente comunicación y, posiblemente, cada uno intervenga una misma necesidad desde diferentes punto de vista, generando sobrecostos, desgaste e ineficiencia.  
+        p(data-aos="fade-down") Lo importante de todas las herramientas legales y de gestión con las que cuente la empresa para determinar el alcance, es poder integrar la gestión y unificar el plan de trabajo, porque en ciertas ocasiones, la información de cada herramienta la reciben diferentes subprocesos de gestión de talento humano y puede ocurrir que no se presente comunicación y, posiblemente, cada uno intervenga en una misma necesidad desde diferentes puntos de vista, generando sobrecostos, desgaste e ineficiencia. 
         .cajon.color-primario.p-4.mt-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Una vez consolidadas todas las necesidades y planteado el alcance que se espera impactar, es necesario construir el plan de trabajo, siendo este la hoja de ruta, donde se tendrán las actividades, su intensidad, a qué objetivo apuntan los recursos requeridos, presupuesto necesario, indicadores, fechas de ejecución, responsables y si interviene algún ente externo.   
     .row.justify-content-center.align-items-start.mb-4           
@@ -161,7 +161,7 @@
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/38.png', alt='')    
       .col-lg-8.my-3    
-        p(data-aos="fade-down") Al momento de llegar a presentar el programa de bienestar a la alta dirección, uno de los obstáculos que se puede llegar a presentar para su implementación hace referencia al presupuesto necesario para cada actividad planteada. Y aunque sería mentir decir que no se necesita dinero para la gestión, una forma de mitigar o generar ahorro, es a través de las alianzas que se construyen con los diferentes aliados en la gestión del talento humano. En esta temática, hablaremos de la Caja de Compensación Familiar, la Administradora de Riesgos Laborales (ARL), las Entidades Promotoras de Salud (EPS), IPS que suministra exámenes médicos ocupacionales y cualquier otro aliado con el cual se tenga vínculo.
+        p(data-aos="fade-down") Al momento de llegar a presentar el programa de bienestar a la alta dirección, uno de los obstáculos que se puede presentar para su implementación, hace referencia al presupuesto necesario para cada actividad planteada. Y, aunque sería mentir, decir que no se necesita dinero para la gestión, una forma de mitigar o generar ahorro es, a través de las alianzas que se construyen con los diferentes aliados, en la gestión del talento humano. En esta temática, hablaremos de la Caja de Compensación Familiar, la Administradora de Riesgos Laborales (ARL), las Entidades Promotoras de Salud (EPS), IPS que suministra exámenes médicos ocupacionales y cualquier otro aliado con el cual se tenga un vínculo.
         .cajon.color-primario.p-4.mt-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 En cuanto a lo que se refiere a la Caja de Compensación Familiar y la ARL, hay una obligación en materia normativa, la cual indica que deben aportar al bienestar del colaborador. 
 
@@ -178,7 +178,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/39.png', alt='')    
         .row.justify-content-center.align-items-start 
           .col-lg-6
-            p Por otro lado, se encuentran los beneficios y apoyos que brinda la ARL, siendo esta entidad la que cubre todo tipo de riesgo de tipo laboral. Como su objetivo principal está enmarcado de cara a accidentes o enfermedades laborales, serán aliados para realizar diferentes campañas de prevención y evitar que el colaborador sufra algún accidente o su salud mental tenga una afectación negativa. 
+            p Por otro lado, se encuentran los beneficios y apoyos que brinda la ARL, siendo esta entidad la que cubre todo tipo de riesgos en el entorno laboral. Como su objetivo principal está enmarcado de cara a accidentes o enfermedades laborales, serán aliados para realizar diferentes campañas de prevención y evitar que el colaborador sufra algún accidente o su salud mental tenga una afectación negativa. 
 
             p Es de suma importancia involucrar a la entidad en el plan de bienestar que se construya, para, de esta manera, poder contar ellos en su implementación y que su aporte se encuentre ligado al bienestar del colaborador. Sus intervenciones pueden ser capacitaciones, charlas, o diferentes actividades.
           .col-lg-5
@@ -187,7 +187,7 @@
           .col-lg-6
             p Otras alianzas que se podrán construir, y que ya no son parte del marco del desarrollo legal, hacen referencia a los proveedores que impactan la salud del colaborador. Por ejemplo, la IPS de exámenes médicos ocupacionales, las EPS, corredores de seguros, empresas de servicios temporales. 
 
-            p En particular, para el caso de las EPS, aunque no tienen ninguna obligación, usualmente solicitan poder impactar el bienestar del colaborador, para poder captar más afiliados; en este orden de ideas, este sería su beneficio. Y en lo que respecta a la empresa de servicios temporales, funcionará solamente si la compañía cuenta con estos servicios y estarán obligadas a impactar el bienestar de sus trabajadores en misión, pero la mayoría de veces, también apoyan para impactar al resto de colaboradores. 
+            p En particular, para el caso de las EPS, aunque no tienen ninguna obligación, usualmente solicitan poder impactar el bienestar del colaborador, y así captar más afiliados; en este orden de ideas, este sería su beneficio. Y en lo que respecta a la empresa de servicios temporales, funcionará solamente si la compañía cuenta con estos servicios y estarán obligadas a mejorar el bienestar de sus trabajadores en misión, pero la mayoría de las veces, también apoyan para beneficiar, al resto de colaboradores. 
           .col-lg-5
             img.img-a.img-t(src='@/assets/curso/temas/41.png', alt='')            
 </template>

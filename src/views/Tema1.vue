@@ -10,7 +10,7 @@
       .col-lg-2.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.svg', alt='')    
       .col-lg-10.my-3
-        p(data-aos="fade-down") Para poder construir el plan de bienestar, es necesario tener claro el norte de las acciones a desarrollar. Una forma de reconocer las actividades que se ejecutarán, se fundamenta a través del plan estratégico planteado por la compañía; sin embargo, también es necesario realizar una investigación a nivel interno para hacer llevar a cabo un diagnóstico con la población trabajadora. Es así como las técnicas de investigación permiten identificar un problema y recolectar información y datos para construir un plan de acción, según los hallazgos encontrados.        
+        p(data-aos="fade-down") Para poder construir el plan de bienestar, es necesario tener claro el norte de las acciones a desarrollar. Una forma de reconocer las actividades que se ejecutarán, se fundamenta a través del plan estratégico planteado por la compañía; sin embargo, también es necesario realizar una investigación a nivel interno, para llevar a cabo un diagnóstico con la población trabajadora. Es así como las técnicas de investigación, permiten identificar un problema y recolectar información y datos para construir un plan de acción, según los hallazgos encontrados.     
 
     p(data-aos="fade-down").mb-5 Principalmente existen dos tipos de técnicas de investigación: 
 
@@ -32,7 +32,7 @@
       .col-lg-8.my-3 
         p(data-aos="fade-down") Es necesario precisar que ambas metodologías deben apuntar a diagnosticar el clima laboral: cómo se sienten los colaboradores, para poder, de esta manera, construir el plan de bienestar al final del resultado. Por este motivo, las preguntas (sean cerradas o abiertas), deben permitir, al concluir, construir el plan de bienestar; es importante tener un norte claro, según el tipo de compañía, porque llegar a hacer preguntas o indagar sin un objetivo esclarecido, no será funcional y los colaboradores podrán perder confianza en el proceso.   
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Desde la empresa u organización, se especifican los objetivos y resultados que se esperan alcanzar; partiendo de este punto, el área de recursos humanos tiene la responsabilidad de planear el programa de inducción, donde se diseñan, organizan y estructuran las actividades para el desarrollo del proceso, además de identificar las temáticas a tratar, los espacios requeridos para tal fin y los responsables, quienes tendrán a cargo, la parte de formación o entrenamiento.  
+          p(data-aos="fade-down").mb-0 Indicar que una técnica es mejor que la otra no es posible, porque ambas son complementarias y necesarias. Mientras que una se realiza a escala, abordando mayor población, de forma sistemática y precisa, la otra permite profundizar, generando confianza con los colaboradores, para obtener información desde su sentir o su percepción. Al final, lo que debe suceder es que, cuando se tengan ambos informes, deben coincidir con puntos en común, para construir un único plan de acción.
 
     .bg1 
       .row.justify-content-center.align-items-center.mb-5           
@@ -106,7 +106,7 @@
       .col-lg-2.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.svg', alt='')    
       .col-lg-10.my-3
-        p(data-aos="fade-down") Es de suma importancia, después de reconocer la metodología de análisis de información, tener claro hacia adónde apunta la estrategia y cómo está compuesta. En este sentido, primero es necesario reconocer qué significa estrategia organizacional; para entenderlo de una manera sencilla y práctica, se refiere a ese mapa o plan que tiene la empresa para alcanzar sus metas y objetivos, incluyendo los recursos, la tecnología, las personas, el presupuesto, analizando la competencia y el valor agregado, que se pretenden brindar.  
+        p(data-aos="fade-down") Es de suma importancia, después de reconocer la metodología de análisis de información, tener claro hacia dónde apunta la estrategia y cómo está compuesta. En este sentido, primero es necesario reconocer qué significa estrategia organizacional; para entenderlo de una manera sencilla y práctica, se refiere a ese mapa o plan que tiene la empresa para alcanzar sus metas y objetivos, incluyendo los recursos, la tecnología, las personas, el presupuesto, analizando la competencia y el valor agregado, que se pretenden brindar. 
 
     p(data-aos="fade-down").mb-5 Dentro de sus características se puede resaltar que la estrategia debe ser:
 
@@ -166,7 +166,7 @@
       .tarjeta.color-primario.p-3(x="55%" y="63%" numero="+")
         p.mb-0 Hace referencia a cuando una compañía plantea su diferencia competitiva en el precio del producto, ofreciendo el más barato del mercado.    
       .tarjeta.color-primario.p-3(x="45%" y="63%" numero="+")
-        p.mb-0 Se aplica con más frecuencia, cuando se desea reducir el personal, los productos o los servicios, o terminar o agrupar áreas de la organización; es decir, va se alinea con un cambio organizacional. 
+        p.mb-0 Se aplica con más frecuencia, cuando se desea reducir el personal, los productos o los servicios, o terminar o agrupar áreas de la organización; es decir, se alinea con un cambio organizacional. 
       .tarjeta.color-primario.p-3(x="42%" y="44%" numero="+")
         p.mb-0 Hace referencia a la estrategia que determina cada proceso, de acuerdo con la estrategia macro planteada. Es decir, la estrategia de logística, de producción, de recursos humanos, financiera, de marketing, entre otros.                                                     
 </template>
