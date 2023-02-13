@@ -213,18 +213,26 @@ export default {
     {
       referencia:
         'Decreto 1072 de 2015. Por medio del cual se expide el Decreto Único Reglamentario del Sector Trabajo. 26 de mayo de 2015. D.O. No 49523.',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/0/DUR+1072+Sector+Trabajo+Actualizado+a+Diciembre+20+de+2021.pdf/f1f86400-2b37-0582-5557-87a5d3ea8227?t=1640204850717',
     },
     {
       referencia:
         'Decreto 1567 de 1998 [con fuerza de Ley]. Por el cual se crea el sistema nacional de capacitación y el sistema de estímulos para los empleados del Estado. 5 de agosto de 1998. D.O. No 43358.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1246',
     },
     {
       referencia:
         'Ley 1010 de 2006. Por medio de la cual se adoptan medidas para prevenir, corregir y sancionar el acoso laboral y otros hostigamientos en el marco de las relaciones de trabajo. 23 de enero de 2006. D.O No 46160.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=18843',
     },
     {
       referencia:
         'Ley 1857 de 2017. Por medio de la cual se modifica la Ley 1361 de 2009 para adicionar y complementar las medidas de protección de la familia y se dictan otras disposiciones. 26 de julio de 2017.D.O: No 50306.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=82917',
     },
     {
       referencia:
@@ -234,6 +242,8 @@ export default {
     {
       referencia:
         'Rincón, D. (1998). Los indicadores de gestión organizacional: Una guía para su definición. <i>Revista Universidad Eafit</i>.',
+      link:
+        'https://publicaciones.eafit.edu.co/index.php/revista-universidad-eafit/article/view/1104',
     },
     {
       referencia:
