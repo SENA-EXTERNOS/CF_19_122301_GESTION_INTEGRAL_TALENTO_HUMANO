@@ -137,7 +137,7 @@ export default {
     {
       tema: 'Programa de bienestar laboral',
       referencia:
-        'Factoral HR España. (2019). <i>Gestión del TALENTO [8+1 estrategias]</i>.',
+        'Factoral HR España. (2019). <i>Gestión del TALENTO [9 estrategias]</i>.',
       tipo: 'Video',
       link: 'https://youtu.be/m1ovBrkFaF8',
     },
