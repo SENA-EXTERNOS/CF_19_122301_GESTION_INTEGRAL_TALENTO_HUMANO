@@ -132,7 +132,7 @@
           .tarjeta.color-acento-contenido--borde.p-4(titulo="Resolución<br> 2446 de 2008")
             .row.justify-content-center.align-items-start
               .col-lg-12
-                p “Por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo permanente de la exposición a factores de riesgo psicosocial en el trabajo, y para la determinación del origen de las patologías causadas por el estrés ocupacional” Esta normatividad es de suma importancia y tiene un rol muy importante en lo referente a la identificación de riesgos en materia de cómo se siente la persona en un contexto intralaboral, extralaboral y estrés, marcando la pauta respecto a cómo y determina la frecuencia con que se debe medir, prevenir, intervención y monitoreo, según los hallazgos identificados.
+                p “Por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo permanente de la exposición a factores de riesgo psicosocial en el trabajo, y para la determinación del origen de las patologías causadas por el estrés ocupacional”. Esta normatividad es de suma importancia y tiene un rol muy importante en lo referente a la identificación de riesgos en materia de cómo se siente la persona en un contexto intralaboral, extralaboral y estrés, marcando la pauta respecto a cómo y determina la frecuencia con que se debe medir, prevenir, intervención y monitoreo, según los hallazgos identificados.
           .tarjeta.color-acento-contenido--borde.p-4(titulo="Ley 1857 de<br> 2017")
             .row.justify-content-center.align-items-start
               .col-lg-12

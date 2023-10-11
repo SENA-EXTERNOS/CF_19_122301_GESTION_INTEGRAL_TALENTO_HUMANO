@@ -166,12 +166,12 @@ export default {
     {
       termino: 'Cualitativo',
       significado:
-        'referente a investigación es la forma de conocer situaciones, hechos de forma objetiva a través de datos, encuestas.',
+        'referente a la investigación es la forma de indagar al respecto a través de observaciones, grupos focales, conversaciones.',
     },
     {
       termino: 'Cuantitativo',
       significado:
-        'referente a la investigación es la forma de indagar al respecto a través de observaciones, grupos focales, conversaciones.',
+        'referente a investigación es la forma de conocer situaciones, hechos de forma objetiva a través de datos, encuestas.',
     },
     {
       termino: 'Cultura organizacional',

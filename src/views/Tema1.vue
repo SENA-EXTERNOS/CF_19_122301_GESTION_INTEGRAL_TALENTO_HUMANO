@@ -19,7 +19,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg6")
           .row.justify-content-center.align-items-center(titulo="Cuantitativas")
             .col-10
-              p Se caracterizan por ser instrumentos o encuestas estandarizadas, están construidas de forma cerrada y arrojan información numérica y medible (datos). Esta técnica es utilizada cuando el objetivo es obtener información a través de la Escala de Likert (conformada por preguntas concretas y de elección múltiple que se responden con facilidad, y que originan datos sencillos de interpretar por procedimientos estadísticos), y así poder analizar el insumo obtenido para construir el programa de bienestar y determinar el plan de acción. Una característica sumamente importante es la objetividad del proceso, porque el resultado final es la interpretación de los datos.
+              p Se caracterizan por ser instrumentos o encuestas estandarizadas, están construidas de forma cerrada y arrojan información numérica y medible (datos). Esta técnica es utilizada cuando el objetivo es obtener información a través de la Escala de #[em Likert] (conformada por preguntas concretas y de elección múltiple que se responden con facilidad, y que originan datos sencillos de interpretar por procedimientos estadísticos), y así poder analizar el insumo obtenido para construir el programa de bienestar y determinar el plan de acción. Una característica sumamente importante es la objetividad del proceso, porque el resultado final es la interpretación de los datos.
           .row.justify-content-center.align-items-center(titulo="Cualitativas ")
             .col-10
               p Su objetivo es indagar a profundidad y conocer el problema de raíz a través de la exploración. Se podrá realizar a través de la observación, grupos focales, entrevistas, encuestas abiertas (descriptivas) o estudios de casos. Para este caso, el resultado final se fundamenta en comentarios o interpretaciones del evaluador, quien construirá un informe para poder determinar el plan de acción. Debido a que una persona interfiere en la construcción de los hallazgos, hay un ítem sumamente importante que es la subjetividad que tiene el documento final, por lo cual es necesario que la persona que desarrolle el proceso se encuentre capacitada para hacerlo y tenga el conocimiento y la claridad necesarios sobre el proceso.             
@@ -84,7 +84,7 @@
                   img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/13.svg", alt="alt").img100.m-auto
               .text-center
                 h4.mb-3 La encuesta 
-                p.mb-0 Su objetivo es el de obtener datos con mayor alcance, de forma simultánea, a varias personas. Se utilizan preguntas cerradas y bajo respuestas de escala tipo Likert.
+                p.mb-0 Su objetivo es el de obtener datos con mayor alcance, de forma simultánea, a varias personas. Se utilizan preguntas cerradas y bajo respuestas de escala tipo #[em Likert].
 
     p(data-aos="fade-down").mb-5 Es importante, en este tema, entender los siguientes conceptos:
 
@@ -168,7 +168,7 @@
       .tarjeta.color-primario.p-3(x="45%" y="63%" numero="+")
         p.mb-0 Se aplica con más frecuencia, cuando se desea reducir el personal, los productos o los servicios, o terminar o agrupar áreas de la organización; es decir, se alinea con un cambio organizacional. 
       .tarjeta.color-primario.p-3(x="42%" y="44%" numero="+")
-        p.mb-0 Hace referencia a la estrategia que determina cada proceso, de acuerdo con la estrategia macro planteada. Es decir, la estrategia de logística, de producción, de recursos humanos, financiera, de marketing, entre otros.                                                     
+        p.mb-0 Hace referencia a la estrategia que determina cada proceso, de acuerdo con la estrategia macro planteada. Es decir, la estrategia de logística, de producción, de recursos humanos, financiera, de #[em marketing], entre otros.                                                     
 </template>
 
 <script>
